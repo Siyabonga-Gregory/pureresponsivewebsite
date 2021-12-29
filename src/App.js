@@ -1,7 +1,7 @@
 import React from 'react'
 import {Footer,Header} from './containers';
 import {Navbar} from './components';
-import './index.css';
+import './App.css';
 
 const App = () => {
     return (
