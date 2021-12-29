@@ -23,7 +23,7 @@ a {
     background:-webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
 
     /* opera 11.10+ */
-    background:-o-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+    background:-o-radial-gradient(circle at 3% 25%, rgb(2, 25, 49) 0%, rgba(4, 12, 24, 1) 100%);
 
     /* ie 10+ */
     background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
