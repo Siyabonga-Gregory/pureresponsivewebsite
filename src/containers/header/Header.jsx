@@ -9,4 +9,4 @@ const Header = () => {
     )
 }
 
-export default Navbar
+export default Header
