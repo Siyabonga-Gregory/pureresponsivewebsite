@@ -10,6 +10,13 @@ const Navbar = () => {
                <div className='navbar-links_logo'>
                    <img   src={logo} alt='logo' />
                 </div>
+                <div className='navbar-links_container'>
+                     <p><a href="home">Home</a></p>
+                     <p><a href="csharp">C#</a></p>
+                     <p><a href="java">Java</a></p>
+                     <p><a href="php">Php</a></p>
+                     <p><a href="javascript">Javascript</a></p>
+                </div>
             </div>
         </div>
     )
