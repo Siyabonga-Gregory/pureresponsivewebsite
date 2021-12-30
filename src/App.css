@@ -15,9 +15,9 @@ a {
 }
 
 .gradient__bg {
-  background: #6d231b;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #1f1c185d, #570a02bd);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #1f1c184f, #5a0d04b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #6d231b; 
+  background: -webkit-linear-gradient(to left, #1f1c185d, #570a02bd); 
+  background: linear-gradient(to left, #1f1c184f, #5a0d04b0);
 }
 
 .gradient__text

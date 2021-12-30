@@ -35,7 +35,7 @@ const Navbar = () => {
               ?<RiCloseLine color="#fff" size={27} onClick={()=>setToogleMenu(false)} />
               :<RiMenu3Line color="#fff" size={27 } onClick={()=>setToogleMenu(true)} />
               }
- 
+    
               {toogleMenu && (
               <div className='navbar-menu_container scale-up-center'>
                 <div className='navbar-menu_container-links'>  
