@@ -15,21 +15,9 @@ a {
 }
 
 .gradient__bg {
-
-    /* ff 3.6+ */
-    background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
-
-    /* safari 5.1+,chrome 10+ */
-    background:-webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
-
-    /* opera 11.10+ */
-    background:-o-radial-gradient(circle at 3% 25%, rgb(2, 25, 49) 0%, rgba(4, 12, 24, 1) 100%);
-
-    /* ie 10+ */
-    background:-ms-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
-
-    /* global 92%+ browsers support */
-    background:radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+  background: #6d231b;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #1f1c185d, #570a02bd);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #1f1c184f, #5a0d04b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .gradient__text

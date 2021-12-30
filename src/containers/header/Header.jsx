@@ -9,6 +9,10 @@ const Header = () => {
                     Something awesome is coming soon.
                 </h1>
 
+                <div className='header-content__input'>
+               
+                </div>
+
             </div>
         </div>
     )

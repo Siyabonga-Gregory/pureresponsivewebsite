@@ -40,17 +40,25 @@ navbar-menu_container p{
 }
 .navbar-sign button,
 navbar-menu_container button{
-   padding:0.5rem 1rem;
    color: #ffffff;
    font-family: var(--font-family);
-   font-weight: 500;
-   font-size: 18px;
-   line-height: 25px;
-   background: #ffffff00;
-   border-radius: 5px;
+   border-radius: 8px;
+   background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
    border: 0;
-   outline: none;
-   cursor:pointer;
+   cursor: pointer;
+   display: inline-block;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 2.5;
+   outline: transparent;
+   padding: 0 1rem;
+   text-align: center;
+   text-decoration: none;
+   transition: box-shadow .2s ease-in-out;
+   user-select: none;
+   -webkit-user-select: none;
+   touch-action: manipulation;
+   white-space: nowrap;
 }
 .navbar-menu{
     margin-left: 1rem;
@@ -66,7 +74,7 @@ navbar-menu_container button{
     align-items: flex-end;
     flex-direction: column;
     text-align: end;
-    background: var(--color-footer);
+    background: var(--color-navbarmenu);
     padding: 2rem;
     position: absolute;
     top: 40px;
@@ -112,7 +120,29 @@ navbar-menu_container button{
     }
     .navbar-menu_container-links-sign{
         display: block;
+        color: #fff;
     }
+    .navbar-menu_container-links-sign button{
+    color: #ffffff;
+    font-family: var(--font-family);
+    border-radius: 8px;
+    background: linear-gradient(to bottom left, #EF4765, #FF9A5A);
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+   }
     
 }
 
