@@ -1,5 +1,6 @@
 # Pure Responsive Website (In Development till 31-December-2021)
-![Screenshot_34](https://user-images.githubusercontent.com/19228713/147712699-1cd7969e-9d8a-4042-b55b-1d1922e8e1a0.png)
+
+![Screenshot_37](https://user-images.githubusercontent.com/19228713/147731638-24fdbedf-84c8-4660-80e6-df222f44c0ae.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
