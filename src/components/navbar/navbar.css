@@ -80,6 +80,7 @@ navbar-menu_container button{
 .navbar-menu_container p{
    margin: 1rem 0; 
 }
+
 .navbar-menu_container-links-sign{
     display: none;
 }
@@ -97,6 +98,22 @@ navbar-menu_container button{
     .navbar{
         padding:2rem 4rem;
     }
+}
+
+@media screen and (max-width:550px) {
+    .navbar{
+        padding:2rem;
+    }
+    .navbar-sign{
+        display: none;
+    }
+    .navbar-menu_container{
+        top:20px;
+    }
+    .navbar-menu_container-links-sign{
+        display: block;
+    }
+    
 }
 
 

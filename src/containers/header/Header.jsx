@@ -3,8 +3,13 @@ import './header.css'
 
 const Header = () => {
     return (
-        <div>
-           <h1> Header </h1>
+        <div className='header section__padding' id='home'>
+            <div className='header-content'>
+                <h1 className='gradient__text'>
+                    Something awesome is coming soon.
+                </h1>
+
+            </div>
         </div>
     )
 }
