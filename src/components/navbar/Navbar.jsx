@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className='navbar'>
             <div className='navbar-links'>
                <div className='navbar-links_logo'>
-                   <img   src={logo} alt='logo' />
+                   <img src={logo} alt='logo' />
                 </div>
                 <div className='navbar-links_container'>
                    <NavBarMenu/>  
