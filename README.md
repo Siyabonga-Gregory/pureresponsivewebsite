@@ -1,6 +1,6 @@
 # Pure Responsive Website.
 
-I have done most of the hard work in this project, all you can do is to look at how i created the header component then base your component on it.
+I have done most of the hard work in this project, all you can do is to look at how i created the header component then base your components from it.
 
 If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
 
