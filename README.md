@@ -6,7 +6,7 @@ If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
 
 Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
 
-❤️Manny thanks!❤️
+❤️Manny thanks!❤️   
 
 ![1](https://user-images.githubusercontent.com/19228713/147752743-ac31716a-05f9-4474-bcd5-d29ebf75aeeb.png)
 
